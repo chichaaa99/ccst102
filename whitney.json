@@ -1,86 +1,88 @@
 {
 	"title": {
 		"media": {
-			"url": "//www.flickr.com/photos/tm_10001/2310475988/",
-			"caption": "Whitney Houston performing on her My Love is Your Love Tour in Hamburg.",
-			"credit": "flickr/<a href='http://www.flickr.com/photos/tm_10001/'>tm_10001</a>"
+			"url": "https://collectorshive.com/blog/wp-content/uploads/2023/09/131124012659-manny-pacquiao-rios-win.jpg",
+			"caption": "The man who left home as a teenager and became world-famous boxer.",
+			"credit": "flickr/<a href='https://collectorshive.com/blog/2023/09/29/manny-pacquiao-memorabilla-and-collectoble-items/'>Pac-Man</a>"
 		},
 		"text": {
-			"headline": "Whitney Houston<br/> 1963 - 2012",
-			"text": "<p>Houston's voice caught the imagination of the world propelling her to superstardom at an early age becoming one of the most awarded performers of our time. This is a look into the amazing heights she achieved and her personal struggles with substance abuse and a tumultuous marriage.</p>"
+			"headline": "Manny Pacquiao <br/> Professional Boxer",
+			"text": "<p>Born on December 17, 1978 in Kibawe, Bukidnon province, Mindanao, Philippines. He is a Professional Boxer, Media Celebrity and Politician. He became World-Famous for winning Boxing Titles in more weight classes than any boxer in History.</p>"
 		}
 	},
 	"events": [
 		{
 			"media": {
-				"url": "https://s.abcnews.com/images/Entertainment/whitney-cissy-dionne-gty-er-180711_hpEmbed_21x16_992.jpg",
-				"caption": "Houston's with her mother and Gospel singer, Cissy Houston and cousin Dionne Warwick.",
-				"credit": "Cissy Houston photo:<a href='http://www.flickr.com/photos/11447043@N00/418180903/'>Tom Marcello</a><br/><a href='http://commons.wikimedia.org/wiki/File%3ADionne_Warwick_television_special_1969.JPG'>Dionne Warwick: CBS Television via Wikimedia Commons</a>"
+				"url": "https://th.bing.com/th/id/R.d9fe00d7d0830653a76da441f4505b31?rik=P5VOXTkFfUSP7Q&riu=http%3a%2f%2fa.espncdn.com%2fphoto%2f2015%2f0425%2fbox_pacman_02.jpg&ehk=1KK77e5aIMLnZYGRl2Zw%2fXb9H%2bxozq4ThbCXvtxtpL8%3d&risl=&pid=ImgRaw&r=0",
+				"caption": "Manny Pacquiao's First Major Title",
+				"credit": "Flashback :<a href='https://www.boxingnews24.com/2015/03/flashback-manny-pacquiao-vs-chatchai-sasakul/'>Sasakul vs Manny</a><br/><a href='https://www.bing.com/videos/search?q=manny+pacquiao+vs+chatchai+sasakul&&view=detail&mid=4A332A82D0F45DDE1D0D4A332A82D0F45DDE1D0D&FORM=VAMGZC'>YouTube: Actual Fight</a>"
 			},
 			"start_date": {
-				"month": "8",
-				"day": "9",
-				"year": "1963"
+				"month": "12",
+				"day": "4",
+				"year": "1998"
 			},
 			"text": {
-				"headline": "A Musical Heritage",
-				"text": "<p>Born in New Jersey on August 9th, 1963, Houston grew up surrounded by the music business. Her mother is gospel singer Cissy Houston and her cousins are Dee Dee and Dionne Warwick.</p>"
+				"headline": "Manny Vs Sasakul",
+				"text": "<p>He won his First Major Title by Knocking out Thailand's Chatchai Sasakul to capture the World Boxing Council (WBC) flyweight title.</p>"
 			}
 		},
 		{
 			"media": {
-				"url": "https://youtu.be/fSrO91XO1Ck",
+				"url": "https://www.youtube.com/watch?v=DdWzRdcSFac",
+				"caption": "First Fight in US"
+			},
+			"start_date": {
+				"month" : "6",
+				"day" : "23",
+				"year": "2001"
+			},
+			"text": {
+				"headline": "Manny Vs Lehlohonolo Ledwaba",
+				"text": "Pacquiao fought for the first time in the United States at the MGM Grand Arena in Las Vegas."
+			}
+		},
+		{
+			"media": {
+				"url": "https://www.youtube.com/watch?v=Oa3XBCuWeDo",
+				"caption": "Celebrates after defeating Emmanuel Lucero"
+				
+			},
+			"start_date": {
+				"year": "2003"
+			},
+			"text": {
+				"headline": "Pacquiao Dominates Lucero",
+				"text": "On July 26, 2003, Manny Pacquiao defended his IBF World Super Bantamweight Title against undefeated Emmanuel Lucero at the Olympic Auditorium in Los Angeles. Despite Lucero’s early aggression, Pacquiao dominated with superior speed and technique, knocking Lucero down in the third round and winning by TKO at 0:48. This marked Pacquiao’s fourth successful title defense."
+			}
+		},
+		{
+			"media": {
+				"url": "https://i.ytimg.com/vi/4mCkdfalKmo/maxresdefault.jpg",
 				"caption": "",
-				"credit": "<a href=\"http://unidiscmusic.com\">Unidisc Music</a>"
+				"credit": "Manny"
 			},
 			"start_date": {
-				"year": "1978"
+				
+				"year": "2009"
 			},
 			"text": {
-				"headline": "First Recording",
-				"text": "At the age of 15 Houston was featured on Michael Zager's song, Life's a Party."
+				"headline": "50TH CAREER BOXING WIN",
+				"text": "Manny Pacquiao celebrates his 50th career boxing win, defeating Miguel Cotto during their WBO welterweight title fight on November 14, 2009."
 			}
 		},
 		{
 			"media": {
-				"url": "https://youtu.be/_gvJCCZzmro",
-				"caption": "A young poised Whitney Houston in an interview with EbonyJet.",
-				"credit": "EbonyJet"
+				"url": "https://www.bing.com/videos/search?q=mannY+VC+Shane+Mosley&&view=detail&mid=66277C302E4AF239E99666277C302E4AF239E996&FORM=VAMGZC",
+				"caption": "",
+				"credit": "MGM Grand Garden Arena,"
 			},
 			"start_date": {
-				"year": "1978"
-			},
-			"text": {
-				"headline": "The Early Years",
-				"text": "As a teen Houston's credits include background vocals for Jermaine Jackson, Lou Rawls and the Neville Brothers. She also sang on Chaka Khan's, 'I'm Every Woman,' a song which she later remade for the <i>Bodyguard</i> soundtrack which is the biggest selling soundtrack of all time. It sold over 42 million copies worldwide."
-			}
-		},
-		{
-			"media": {
-				"url": "https://youtu.be/H7_sqdkaAfo",
-				"caption": "I'm Every Women as performed by Whitney Houston.",
-				"credit": "Arista Records"
-			},
-			"start_date": {
-				"year": "1978"
-			},
-			"text": {
-				"headline": "Early Album Credits",
-				"text": "As a teen Houston's credits include background vocals for Jermaine Jackson, Lou Rawls and the Neville Brothers. She also sang on Chaka Khan's, 'I'm Every Woman,' a song which she later remade for the <i>Bodyguard</i> soundtrack which is the biggest selling soundtrack of all time. It sold over 42 million copies worldwide."
-			}
-		},
-		{
-			"media": {
-				"url": "https://youtu.be/A4jGzNm2yPI",
-				"caption": "Whitney Houston and Clive Davis discussing her discovery and her eponymous first album.",
-				"credit": "Sony Music Entertainment"
-			},
-			"start_date": {
-				"year": "1983"
+				"year": "2011"
 			},
 			"text": {
 				"headline": "Signed",
-				"text": "Houston is signed to Arista Records after exec Clive Davis sees her performing on stage with her mother in New York."
+				"text": "On May 7, 2011, Manny Pacquiao landed a powerful punch on Shane Mosley during their highly anticipated WBO welterweight title fight. The bout showcased Pacquiao’s speed, precision, and relentless pressure as he took control early, ultimately securing a dominant victory over Mosley in one of the biggest fights of the year."
 			}
 		},
 		{
