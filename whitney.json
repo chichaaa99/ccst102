@@ -73,7 +73,7 @@
 		},
 		{
 			"media": {
-				"url": "https://www.bing.com/videos/search?q=mannY+VC+Shane+Mosley&&view=detail&mid=66277C302E4AF239E99666277C302E4AF239E996&FORM=VAMGZC",
+				"url": "https://www.newsday.com/_next/image?url=https%3A%2F%2Fcdn.newsday.com%2Fimage-service%2Fversion%2Fc%3AOGFjZmNkZmQtMmZkOC00%3AZmQtMmZkOC00NTM1MmMw%2Fshane-mosley-and-manny-pacquiao-exchange-punches.jpg%3Ff%3DLandscape%2B16%253A9%26w%3D770%26q%3D1&w=1920&q=80",
 				"caption": "",
 				"credit": "MGM Grand Garden Arena,"
 			},
@@ -81,193 +81,53 @@
 				"year": "2011"
 			},
 			"text": {
-				"headline": "Signed",
+				"headline": "Pacquiao Overpowers Mosley in One-Sided Victory",
 				"text": "On May 7, 2011, Manny Pacquiao landed a powerful punch on Shane Mosley during their highly anticipated WBO welterweight title fight. The bout showcased Pacquiao’s speed, precision, and relentless pressure as he took control early, ultimately securing a dominant victory over Mosley in one of the biggest fights of the year."
 			}
 		},
 		{
 			"media": {
-				"url": "https://youtu.be/m3-hY-hlhBg",
-				"caption": "The 'How Will I Know' video showcases the youthful energy that boosted Houston to stardom.",
-				"credit": "Arista Records Inc."
+				"url": "https://www.youtube.com/watch?v=6CjWhlP6_TQ",
+				"caption": "Marquez lands 'the perfect punch,' ending their rivalry in explosive fashion.",
+				"credit": "<a href='https://www.espn.ph/boxing/story/_/id/8786726/manny-pacquiao-juan-manuel-marquez-iv'>More Details</a>"
 			},
 			"start_date": {
-				"year": "1985"
-			},
-			"text": {
-				"headline": "Debut",
-				"text": "Whitney Houston's self titled first release sold over 12 million copies in the U.S. and included the hit singles 'How Will I Know,' 'You Give Good Love,' 'Saving All My Love For You' and 'Greatest Love of All.'"
-			}
-		},
-		{
-			"media": {
-				"url": "https://youtu.be/v0XuiMX1XHg",
-				"caption": "Dionne Warwick gleefully announces cousin, Whitney Houston, the winner of the Best Female Pop Vocal Performance for the song Saving All My Love.",
-				"credit": "<a href='http://grammy.org'>The Recording Academy</a>"
-			},
-			"start_date": {
-				"year": "1986"
-			},
-			"text": {
-				"headline": "'The Grammys'",
-				"text": "In 1986 Houston won her first Grammy for the song Saving All My Love. In total she has won six Grammys, the last of which she won in 1999 for It's Not Right But It's Okay."
-			}
-		},
-		{
-			"media": {
-				"url": "https://youtu.be/eH3giaIzONA",
-				"caption": "I Wanna Dance With Somebody",
-				"credit": "Arista Records Inc."
-			},
-			"start_date": {
-				"year": "1987"
-			},
-			"text": {
-				"headline": "'Whitney'",
-				"text": "Multiplatinum second album sells more than 20 million copies worldwide. With 'Whitney', Houston became the first female artist to produce four number 1 singles on one album including \"I Wanna Dance With Somebody,' 'Didn't We Almost Have It All,' 'So Emotional' and 'Where Do Broken Hearts Go.'"
-			}
-		},
-		{
-			"media": {
-				"url": "https://youtu.be/96aAx0kxVSA",
-				"caption": "\"One Moment In Time\" - Theme song to the 1988 Seoul Olympics",
-				"credit": "Arista Records Inc."
-			},
-			"start_date": {
-				"year": "1988"
-			},
-			"text": {
-				"headline": "\"One Moment In Time\"",
-				"text": "The artist's fame continues to skyrocket as she records the theme song for the Seoul Olympics, 'One Moment In Time.'"
-			}
-		},
-		{
-			"media": {
-				"url": "",
-				"caption": "",
-				"credit": ""
-			},
-			"start_date": {
-				"year": "1989"
-			},
-			"text": {
-				"headline": "Bobby Brown",
-				"text": "Houston and Brown first meet at the Soul Train Music Awards. In an interview with Rolling Stone Magazine, Houston admitted that it was not love at first sight. She turned down Brown's first marriage proposal but eventually fell in love with him."
-			}
-		},
-		{
-			"media": {
-				"url": "https://youtu.be/5Fa09teeaqs",
-				"caption": "CNN looks back at Houston's iconic performance of the national anthem at Superbowl XXV.",
-				"credit": "CNN"
-			},
-			"start_date": {
-				"year": "1991"
-			},
-			"text": {
-				"headline": "Super Bowl",
-				"text": "Houston's national anthem performance captures the hearts and minds of Americans ralllying behind soldiers in the Persian Guf War."
-			}
-		},
-		{
-			"media": {
-				"url": "https://youtu.be/h9rCobRl-ng",
-				"caption": "\"Run To You\" from the 1992 \"Bodyguard\" soundtrack..",
-				"credit": "Arista Records"
-			},
-			"start_date": {
-				"year": "1992"
-			},
-			"text": {
-				"headline": "\"The Bodyguard\"",
-				"text": "Houston starred opposite Kevin Costner in the box office hit, The Bodyguard. The soundtrack to the movie sold over 44 million copies worldwide  garnering 3 Grammy's for the artist."
-			}
-		},
-		{
-			"media": {
-				"url": "https://youtu.be/5cDLZqe735k",
-				"caption": "Bobby Brown performing \"My Prerogrative,\" from his \"Don't be Cruel\" solo album. Bobby Brown first became famous with the R&B group, New Edition.",
-				"credit": ""
-			},
-			"start_date": {
-				"year": "1992"
-			},
-			"text": {
-				"headline": "Married Life",
-				"text": "<p>After three years of courtship, Houston marries New Edition singer Bobby Brown. Their only child Bobbi Kristina Brown was born in 1993.</p><p>In 2003 Brown was charged with domestic violence after police responded to a domestic violence call. Houston and Brown were featured in the reality show, \"Being bobby Brown,\" and divorced in 2007.</p>"
-			}
-		},
-		{
-			"media": {
-				"url": "//upload.wikimedia.org/wikipedia/commons/d/dd/ABC_-_Good_Morning_America_-_Diane_Sawyer.jpg",
-				"caption": "Diane Sawyer ",
-				"credit": "flickr/<a href='http://www.flickr.com/photos/23843757@N00/194521206/'>Amanda Benham</a>"
-			},
-			"start_date": {
-				"year": "2002"
-			},
-			"text": {
-				"headline": "Crack is Whack",
-				"text": "<p>Houston first publicly admitted to drug use in an interview with Diane Sawyer. The singer coined the term \"Crack is Whack,\" saying that she only used more expensive drugs.</p>"
-			}
-		},
-		{
-			"media": {
-				"url": "https://youtu.be/KLk6mt8FMR0",
-				"caption": "Addiction expert, Dr. Drew, talks about Whitney's death and her struggle with addiction.",
-				"credit": "CNN"
-			},
-			"start_date": {
-				"year": "2004"
-			},
-			"text": {
-				"headline": "Rehab",
-				"text": "<p>Houston entered rehab several times beginning in 2004. She declared herself drug free in an interview with Oprah Winfrey in 2009 but returned to rehab in 2011.</p>"
-			}
-		},
-		{
-			"media": {
-				"url": "",
-				"caption": "",
-				"credit": ""
-			},
-			"start_date": {
-				"year": "2005"
-			},
-			"text": {
-				"headline": "Being Bobby Brown",
-				"text": "<p>Being Bobby Brown was a reality show starring Brown and wife Whitney Houston. Houston refused to sign for a second season. A clip of her telling Brown to \"Kiss my ass,\" became a running gag on The Soup.</p>"
-			}
-		},
-		{
-			"media": {
-				"url": "",
-				"caption": "",
-				"credit": ""
-			},
-			"start_date": {
-				"year": "2010"
-			},
-			"text": {
-				"headline": "A Rocky Comeback",
-				"text": "<p>Houston's comeback tour is cut short due to a diminished voice damaged by years of smoking. She was reportedly devastated at her inability to perform like her old self.</p>"
-			}
-		},
-		{
-			"media": {
-				"url": "//twitter.com/Blavity/status/851872780949889024",
-				"caption": "Houston, performing on Good Morning America in 2009.",
-				"credit": "<a href='http://commons.wikimedia.org/wiki/File%3AFlickr_Whitney_Houston_performing_on_GMA_2009_4.jpg'>Asterio Tecson</a> via Wikimedia"
-			},
-			"start_date": {
-				"month": "2",
-				"day": "11",
 				"year": "2012"
 			},
 			"text": {
-				"headline": "Whitney Houston<br/> 1963-2012",
-				"text": "<p>Houston, 48, was discovered dead at the Beverly Hilton Hotel on  on Feb. 11, 2012. She is survived by her daughter, Bobbi Kristina Brown, and mother, Cissy Houston.</p>"
+				"headline": "Fight of the Decade",
+				"text": "Manny Pacquiao and Juan Manuel Márquez met for the fourth—and final—time on December 8, 2012, at the MGM Grand Garden Arena in Las Vegas in a highly charged welterweight showdown billed as the “Fight of the Decade.” Márquez sealed the dramatic affair with a stunning overhand right that knocked Pacquiao out with just one second remaining in the sixth round"
 			}
-		}
+		},
+		{
+			"media": {
+				"url": "https://www.si.com/.image/t_share/MTY4MTg1NjUwOTk4NjgzMDA4/mayweather-vs-pacquiao-3jpg.jpg",
+				"caption": "Floyd Mayweather Jr. outboxes Manny Pacquiao over 12 rounds to win a unanimous decision, solidifying his legacy as one of boxing's all-time greats.",
+				"credit": "<a href='https://www.youtube.com/watch?v=gVCE3K2UEDQ#:~:text=On%20May%202%2C%202015%2C%20Floyd%20Mayweather%20and,fights%20in%20boxing%20history%20at%20the%20MGM'>YouTube Video </a>"
+			},
+			"start_date": {
+				"year": "2015"
+			},
+			"text": {
+				"headline": "The Battle for Greatness",
+				"text": "Floyd Mayweather Jr. and Manny Pacquiao finally squared off on May 2, 2015, at the MGM Grand Garden Arena in Las Vegas. Mayweather—leveraging superior defense, a sharp jab, and precise counters—secured a unanimous decision victory"
+			}
+		},
+		{
+			"media": {
+				"url": "https://www.youtube.com/watch?v=ykBY6GbI6lU",
+				"caption": "Manny Pacquiao's Return to the Ring",
+				"credit": "MGM Grand Garden Arena in Las Vegas"
+			},
+			"start_date": {
+				"month" : "7",
+				"day" : "19",
+				"year": "2025"
+			},
+			"text": {
+				"headline": "A Draw with Mario Barrios",
+				"text": "Manny Pacquiao made a remarkable return to the ring at age 46, facing WBC welterweight champion Mario Barrios. Despite his age and a four-year hiatus, Pacquiao showcased his signature speed and skill, earning a majority draw with scorecards of 115–113 for Barrios and two at 114–114. This performance earned him the No. 9 spot in Ring Magazine's welterweight rankings, sparking discussions about a potential rematch or future bouts against other top contenders."
+			}
+		}	
 	]
 }
