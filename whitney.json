@@ -13,76 +13,76 @@
 	"events": [
 		{
 			"media": {
-				"url": "https://th.bing.com/th/id/R.d9fe00d7d0830653a76da441f4505b31?rik=P5VOXTkFfUSP7Q&riu=http%3a%2f%2fa.espncdn.com%2fphoto%2f2015%2f0425%2fbox_pacman_02.jpg&ehk=1KK77e5aIMLnZYGRl2Zw%2fXb9H%2bxozq4ThbCXvtxtpL8%3d&risl=&pid=ImgRaw&r=0",
-				"caption": "Manny Pacquiao's First Major Title",
-				"credit": "Flashback :<a href='https://www.boxingnews24.com/2015/03/flashback-manny-pacquiao-vs-chatchai-sasakul/'>Sasakul vs Manny</a><br/><a href='https://www.bing.com/videos/search?q=manny+pacquiao+vs+chatchai+sasakul&&view=detail&mid=4A332A82D0F45DDE1D0D4A332A82D0F45DDE1D0D&FORM=VAMGZC'>YouTube: Actual Fight</a>"
-			},
-			"start_date": {
-				"month": "12",
-				"day": "4",
-				"year": "1998"
-			},
-			"text": {
-				"headline": "Manny Vs Sasakul",
-				"text": "<p>He won his First Major Title by Knocking out Thailand's Chatchai Sasakul to capture the World Boxing Council (WBC) flyweight title.</p>"
-			}
-		},
-		{
-			"media": {
-				"url": "https://www.youtube.com/watch?v=DdWzRdcSFac",
-				"caption": "First Fight in US"
-			},
-			"start_date": {
-				"month" : "6",
-				"day" : "23",
-				"year": "2001"
-			},
-			"text": {
-				"headline": "Manny Vs Lehlohonolo Ledwaba",
-				"text": "Pacquiao fought for the first time in the United States at the MGM Grand Arena in Las Vegas."
-			}
-		},
-		{
-			"media": {
-				"url": "https://www.youtube.com/watch?v=Oa3XBCuWeDo",
-				"caption": "Celebrates after defeating Emmanuel Lucero"
-				
-			},
-			"start_date": {
-				"year": "2003"
-			},
-			"text": {
-				"headline": "Pacquiao Dominates Lucero",
-				"text": "On July 26, 2003, Manny Pacquiao defended his IBF World Super Bantamweight Title against undefeated Emmanuel Lucero at the Olympic Auditorium in Los Angeles. Despite Lucero’s early aggression, Pacquiao dominated with superior speed and technique, knocking Lucero down in the third round and winning by TKO at 0:48. This marked Pacquiao’s fourth successful title defense."
-			}
-		},
-		{
-			"media": {
-				"url": "https://i.ytimg.com/vi/4mCkdfalKmo/maxresdefault.jpg",
-				"caption": "",
-				"credit": "Manny"
+				"url": "https://miro.medium.com/v2/resize:fit:1280/1*_L8g4LaemfvgWBdJ04AzaQ.jpeg",
+				"caption": "University of Montreal researchers published \"A Neural Probabilistic Language Model,\" which suggested a method to model language using feed-forward neural networks.",
+				"credit": "View Here: <a href='https://medium.com/@dahami/a-neural-probabilistic-language-model-breaking-down-bengios-approach-4bf793a84426'>More Details</a><br/>"
 			},
 			"start_date": {
 				
-				"year": "2009"
+				"year": "2000"
 			},
 			"text": {
-				"headline": "50TH CAREER BOXING WIN",
-				"text": "Manny Pacquiao celebrates his 50th career boxing win, defeating Miguel Cotto during their WBO welterweight title fight on November 14, 2009."
+				"headline": "A Neural Probabilistic Language Model",
+				"text": "<p>authored by researchers at the Université de Montréal—notably Yoshua Bengio, Réjean Ducharme, Pascal Vincent, and Christian Jauvin—and it proposed modeling language using a feed‑forward neural network, introducing the now‑classic technique of learning distributed word representations alongside a neural network to predict word sequences.</p>"
 			}
 		},
 		{
 			"media": {
-				"url": "https://www.newsday.com/_next/image?url=https%3A%2F%2Fcdn.newsday.com%2Fimage-service%2Fversion%2Fc%3AOGFjZmNkZmQtMmZkOC00%3AZmQtMmZkOC00NTM1MmMw%2Fshane-mosley-and-manny-pacquiao-exchange-punches.jpg%3Ff%3DLandscape%2B16%253A9%26w%3D770%26q%3D1&w=1920&q=80",
-				"caption": "",
-				"credit": "MGM Grand Garden Arena,"
+				"url": "https://images.deepai.org/glossary-terms/854031bd4add48b3b493bdb43a2dc0df/torch.png",
+				"caption": "First open source machine learning library"
+			},
+			"start_date": {
+				"month" : "10",
+				"year": "2002"
+			},
+			"text": {
+				"headline": "Torch",
+				"text": "Open-source machine learning library and scientific computing framework developed by the Idiap Research Institute at EPFL. It utilizes the Lua programming language, specifically LuaJIT, to provide high-performance interfaces to deep learning algorithms implemented in C."
+			}
+		},
+		{
+			"media": {
+				"url": "https://opendatascience.com/wp-content/uploads/2018/12/kaggle.png",
+				"caption": "A Free, All‑In‑One Platform for Data Science Learning, Collaboration, and Competition",
+				"credit": "<a href='https://www.datacamp.com/blog/what-is-kaggle'>Learn More.</a>"
+
+			},
+			"start_date": {
+				"month": "10",
+				"year": "2010"
+			},
+			"text": {
+				"headline": "Kaggle",
+				"text": "Kaggle is an online community and platform founded in 2010 (now part of Google) that enables data scientists to collaborate, share datasets, compete in machine learning challenges, and run code in cloud-based notebooks powered by free GPUs and TPUs. Users get a weekly allocation—typically 30 hours of GPU time and 20 hours of TPU time—for building, training, and experimenting within a ready-to-use environment. Its scoring and medal systems place users on public leaderboards, fostering learning, visibility, and career opportunities through recognition and performance."
+			}
+		},
+		{
+			"media": {
+				"url": "https://cdn.mos.cms.futurecdn.net/d560dd3b2f6eb03708dcfb9664884142.jpg",
+				"caption": "Microsoft's Kinect: Revolutionizing Gaming with Motion-Sensing Technology"
+				
+			},
+			"start_date": {
+				"month":"11",
+				"year": "2010"
+			},
+			"text": {
+				"headline": "Kinect",
+				"text": "Microsoft's Kinect, released for the Xbox 360 in November 2010, was a groundbreaking motion-sensing device that enabled controller-free gaming and interaction. It utilized a combination of hardware and software to track human movement and respond to voice commands, offering a new level of immersion in gaming and entertainment."
+			}
+		},		
+		{
+			"media": {
+				"url": "https://imageio.forbes.com/specials-images/imageserve/646b79ddea957a74f200fd8a/0x0.jpg?format=jpg&height=600&width=1200&fit=bounds",
+				"caption": "Schmidhuber’s team built the first CNN to beat humans at visual recognition",
+				"credit": "<a href='https://people.idsia.ch/~juergen/superhumanpatternrecognition3.html'>Learn More.</a>"
 			},
 			"start_date": {
 				"year": "2011"
 			},
 			"text": {
-				"headline": "Pacquiao Overpowers Mosley in One-Sided Victory",
-				"text": "On May 7, 2011, Manny Pacquiao landed a powerful punch on Shane Mosley during their highly anticipated WBO welterweight title fight. The bout showcased Pacquiao’s speed, precision, and relentless pressure as he took control early, ultimately securing a dominant victory over Mosley in one of the biggest fights of the year."
+				"headline": "First Superhuman Visual Pattern Recognition",
+				"text": "A team led by Jürgen Schmidhuber—together with Dan Claudiu Ciresan, Ueli Meier, and Jonathan Masci—built a type of deep learning model (a convolutional neural network) that beat human performance at recognizing traffic signs. In the 2011 IJCNN Traffic Sign Recognition contest, their model made just 0.56% mistakes, which is about half the error rate of people, who made 1.16% mistakes on average. This was not only better than humans but also clearly ahead of other computer methods."
 			}
 		},
 		{
