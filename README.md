@@ -1,4 +1,6 @@
 ## Timeline Builder
+## Manalo, Francen P.
+## 3IS2
 
 Use Timeline.js to build a timeline! With thanks to the Knight Lab at [NorthWestern University](https://timeline.knightlab.com/).
 
